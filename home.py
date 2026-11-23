@@ -4,7 +4,7 @@ from pathlib import Path
 import streamlit as st
 
 # ----- the instructor fills these in once, after creating the repository -----
-REPO_URL = "https://github.com/YOUR-ACCOUNT/alk-python-ml"       # <- the GitHub repository of this site
+REPO_URL = "https://github.com/kciech/alk-intro-to-python"       # <- the GitHub repository of this site
 COURSE = "Introduction to Python and Machine Learning · ALK · 2026/27"
 
 GROUPS = Path(__file__).resolve().parent / "groups"
