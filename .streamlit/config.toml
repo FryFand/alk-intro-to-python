@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#2e7d5b"
+
+[server]
+runOnSave = true          # on your laptop: the page reloads by itself when you save a file
+
+[browser]
+gatherUsageStats = false
