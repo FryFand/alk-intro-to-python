@@ -1,6 +1,6 @@
 """Group 3 (w01), Card 3. Estimate which gift-shop customers will return.
 
-Authors: first names pending.
+Authors: Maciej, Maksym, Itan, Szymon.
 """
 
 import numpy as np

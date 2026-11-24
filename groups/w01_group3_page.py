@@ -5,7 +5,7 @@ import streamlit as st
 from ml_base import load_customers
 from w01_group3_returning import ReturnPredictor
 
-TEAM_FIRST_NAMES = ()
+TEAM_FIRST_NAMES = ('Maciej', 'Maksym', 'Itan', 'Szymon')
 
 st.title("🔁 Which customers will come back?")
 team = ", ".join(TEAM_FIRST_NAMES) or "names pending"
