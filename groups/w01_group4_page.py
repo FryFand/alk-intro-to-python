@@ -17,7 +17,7 @@ prof = model.profile()
 overall_returned = customers["returned"].mean() * 100
 
 st.title("🧩 What kinds of customers do we have?")
-st.caption("Group 4 · Card 4 · Team: Mateusz, Kacper")
+st.caption("Group 4 · Card 4 · Team: Mateusz, Kacper, Władysław")
 
 st.header("1️⃣ What we built")
 st.markdown(f"""
