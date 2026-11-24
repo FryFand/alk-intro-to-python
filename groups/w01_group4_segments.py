@@ -1,6 +1,6 @@
 """Group 4 (w01) - segments: splits the shop's customers into k segments with k-means on recency, orders and revenue.
 
-Authors: Mateusz, Kacper
+Authors: Mateusz, Kacper, Władysław
 """
 import numpy as np
 import pandas as pd
